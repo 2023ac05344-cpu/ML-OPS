@@ -1,0 +1,191 @@
+2025-08-11 16:11:33,977 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 16:11:34,130 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 16:11:35,023 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 10:46:58,052 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 10:46:58,069 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 10:46:58,436 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 10:55:20,870 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 10:55:20,880 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 10:55:21,220 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 10:57:37,762 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 10:57:37,772 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 10:57:38,058 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 11:05:55,269 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 11:05:55,281 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 11:05:55,626 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 11:55:27,388 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 11:55:27,399 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 11:55:27,703 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 11:56:00,020 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 11:56:00,031 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 11:56:00,345 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 11:56:14,985 - __main__ - INFO - Prediction made: 4.31 in 0.016s
+2025-08-11 12:01:44,028 - __main__ - INFO - Prediction made: 4.41 in 0.034s
+2025-08-11 12:01:45,138 - __main__ - INFO - Prediction made: 4.47 in 0.009s
+2025-08-11 12:01:46,219 - __main__ - INFO - Prediction made: 4.47 in 0.007s
+2025-08-11 12:01:47,288 - __main__ - INFO - Prediction made: 4.47 in 0.002s
+2025-08-11 12:01:48,357 - __main__ - INFO - Prediction made: 4.48 in 0.003s
+2025-08-11 12:01:49,468 - __main__ - INFO - Prediction made: 4.48 in 0.016s
+2025-08-11 12:01:50,555 - __main__ - INFO - Prediction made: 4.48 in 0.002s
+2025-08-11 12:01:51,655 - __main__ - INFO - Prediction made: 4.48 in 0.003s
+2025-08-11 12:01:52,746 - __main__ - INFO - Prediction made: 4.48 in 0.011s
+2025-08-11 12:01:53,963 - __main__ - INFO - Prediction made: 4.48 in 0.005s
+2025-08-11 12:07:08,753 - __main__ - INFO - Prediction made: 4.41 in 0.023s
+2025-08-11 12:07:09,858 - __main__ - INFO - Prediction made: 4.47 in 0.008s
+2025-08-11 12:07:10,975 - __main__ - INFO - Prediction made: 4.47 in 0.006s
+2025-08-11 12:07:12,057 - __main__ - INFO - Prediction made: 4.47 in 0.002s
+2025-08-11 12:07:13,156 - __main__ - INFO - Prediction made: 4.48 in 0.009s
+2025-08-11 12:07:14,271 - __main__ - INFO - Prediction made: 4.48 in 0.012s
+2025-08-11 12:07:15,363 - __main__ - INFO - Prediction made: 4.48 in 0.007s
+2025-08-11 12:07:16,485 - __main__ - INFO - Prediction made: 4.48 in 0.009s
+2025-08-11 12:07:17,575 - __main__ - INFO - Prediction made: 4.48 in 0.005s
+2025-08-11 12:07:18,660 - __main__ - INFO - Prediction made: 4.48 in 0.005s
+2025-08-11 12:11:00,846 - __main__ - INFO - Prediction made: 2.97 in 0.021s
+2025-08-11 12:11:01,415 - __main__ - INFO - Prediction made: 3.64 in 0.002s
+2025-08-11 12:11:02,011 - __main__ - INFO - Prediction made: 4.27 in 0.005s
+2025-08-11 12:11:02,613 - __main__ - INFO - Prediction made: 4.38 in 0.005s
+2025-08-11 12:11:03,196 - __main__ - INFO - Prediction made: 4.38 in 0.004s
+2025-08-11 12:11:03,789 - __main__ - INFO - Prediction made: 4.37 in 0.009s
+2025-08-11 12:11:04,366 - __main__ - INFO - Prediction made: 4.35 in 0.005s
+2025-08-11 12:11:04,965 - __main__ - INFO - Prediction made: 4.35 in 0.008s
+2025-08-11 12:11:05,547 - __main__ - INFO - Prediction made: 4.35 in 0.002s
+2025-08-11 12:11:06,133 - __main__ - INFO - Prediction made: 4.35 in 0.004s
+2025-08-11 12:11:06,722 - __main__ - INFO - Prediction made: 4.36 in 0.005s
+2025-08-11 12:11:07,288 - __main__ - INFO - Prediction made: 4.36 in 0.004s
+2025-08-11 12:11:07,874 - __main__ - INFO - Prediction made: 4.36 in 0.004s
+2025-08-11 12:11:08,454 - __main__ - INFO - Prediction made: 4.36 in 0.009s
+2025-08-11 12:11:09,043 - __main__ - INFO - Prediction made: 4.36 in 0.006s
+2025-08-11 12:11:09,623 - __main__ - INFO - Prediction made: 4.36 in 0.006s
+2025-08-11 12:11:10,217 - __main__ - INFO - Prediction made: 4.36 in 0.004s
+2025-08-11 12:11:10,802 - __main__ - INFO - Prediction made: 4.36 in 0.004s
+2025-08-11 12:11:11,391 - __main__ - INFO - Prediction made: 4.36 in 0.005s
+2025-08-11 12:11:11,974 - __main__ - INFO - Prediction made: 4.36 in 0.006s
+2025-08-11 12:13:21,709 - __main__ - INFO - Prediction made: 1.99 in 0.025s
+2025-08-11 12:13:22,064 - __main__ - INFO - Prediction made: 2.60 in 0.002s
+2025-08-11 12:13:22,445 - __main__ - INFO - Prediction made: 3.19 in 0.007s
+2025-08-11 12:13:22,835 - __main__ - INFO - Prediction made: 3.25 in 0.009s
+2025-08-11 12:13:23,235 - __main__ - INFO - Prediction made: 3.79 in 0.011s
+2025-08-11 12:13:23,603 - __main__ - INFO - Prediction made: 4.27 in 0.002s
+2025-08-11 12:13:23,987 - __main__ - INFO - Prediction made: 4.35 in 0.004s
+2025-08-11 12:13:24,368 - __main__ - INFO - Prediction made: 4.35 in 0.002s
+2025-08-11 12:13:24,755 - __main__ - INFO - Prediction made: 4.35 in 0.008s
+2025-08-11 12:13:25,123 - __main__ - INFO - Prediction made: 1.65 in 0.002s
+2025-08-11 12:13:25,539 - __main__ - INFO - Prediction made: 1.93 in 0.021s
+2025-08-11 12:13:25,903 - __main__ - INFO - Prediction made: 2.37 in 0.002s
+2025-08-11 12:13:26,298 - __main__ - INFO - Prediction made: 3.17 in 0.011s
+2025-08-11 12:13:26,661 - __main__ - INFO - Prediction made: 3.40 in 0.002s
+2025-08-11 12:13:27,060 - __main__ - INFO - Prediction made: 4.04 in 0.014s
+2025-08-11 12:13:27,438 - __main__ - INFO - Prediction made: 4.29 in 0.004s
+2025-08-11 12:13:27,799 - __main__ - INFO - Prediction made: 4.32 in 0.002s
+2025-08-11 12:13:28,162 - __main__ - INFO - Prediction made: 4.32 in 0.002s
+2025-08-11 12:13:28,546 - __main__ - INFO - Prediction made: 4.36 in 0.002s
+2025-08-11 12:13:28,914 - __main__ - INFO - Prediction made: 1.61 in 0.001s
+2025-08-11 12:13:29,306 - __main__ - INFO - Prediction made: 1.89 in 0.006s
+2025-08-11 12:13:29,673 - __main__ - INFO - Prediction made: 2.43 in 0.002s
+2025-08-11 12:13:30,070 - __main__ - INFO - Prediction made: 3.23 in 0.002s
+2025-08-11 12:13:30,448 - __main__ - INFO - Prediction made: 3.41 in 0.002s
+2025-08-11 12:13:30,832 - __main__ - INFO - Prediction made: 4.07 in 0.011s
+2025-08-11 12:13:31,201 - __main__ - INFO - Prediction made: 4.32 in 0.002s
+2025-08-11 12:13:31,603 - __main__ - INFO - Prediction made: 4.36 in 0.006s
+2025-08-11 12:13:31,975 - __main__ - INFO - Prediction made: 4.36 in 0.002s
+2025-08-11 12:13:32,355 - __main__ - INFO - Prediction made: 4.36 in 0.007s
+2025-08-11 12:13:32,716 - __main__ - INFO - Prediction made: 1.67 in 0.003s
+2025-08-11 12:18:30,148 - __main__ - INFO - Prediction made: 2.43 in 0.022s
+2025-08-11 12:18:30,624 - __main__ - INFO - Prediction made: 3.23 in 0.002s
+2025-08-11 12:18:31,122 - __main__ - INFO - Prediction made: 3.59 in 0.006s
+2025-08-11 12:18:31,598 - __main__ - INFO - Prediction made: 4.15 in 0.002s
+2025-08-11 12:18:32,078 - __main__ - INFO - Prediction made: 4.27 in 0.004s
+2025-08-11 12:18:32,569 - __main__ - INFO - Prediction made: 4.28 in 0.005s
+2025-08-11 12:18:33,051 - __main__ - INFO - Prediction made: 4.28 in 0.006s
+2025-08-11 12:18:33,531 - __main__ - INFO - Prediction made: 1.97 in 0.002s
+2025-08-11 12:18:34,022 - __main__ - INFO - Prediction made: 2.42 in 0.005s
+2025-08-11 12:18:34,521 - __main__ - INFO - Prediction made: 3.19 in 0.006s
+2025-08-11 12:18:35,027 - __main__ - INFO - Prediction made: 3.54 in 0.014s
+2025-08-11 12:18:35,528 - __main__ - INFO - Prediction made: 4.09 in 0.006s
+2025-08-11 12:18:36,032 - __main__ - INFO - Prediction made: 4.22 in 0.006s
+2025-08-11 12:18:36,528 - __main__ - INFO - Prediction made: 4.28 in 0.002s
+2025-08-11 12:18:37,039 - __main__ - INFO - Prediction made: 4.28 in 0.007s
+2025-08-11 12:21:24,572 - __main__ - INFO - Prediction made: 2.20 in 0.032s
+2025-08-11 12:21:24,940 - __main__ - INFO - Prediction made: 2.74 in 0.002s
+2025-08-11 12:21:25,346 - __main__ - INFO - Prediction made: 3.24 in 0.006s
+2025-08-11 12:21:25,712 - __main__ - INFO - Prediction made: 3.26 in 0.001s
+2025-08-11 12:21:26,136 - __main__ - INFO - Prediction made: 3.79 in 0.008s
+2025-08-11 12:21:26,514 - __main__ - INFO - Prediction made: 4.27 in 0.002s
+2025-08-11 12:21:26,903 - __main__ - INFO - Prediction made: 1.71 in 0.005s
+2025-08-11 12:21:27,280 - __main__ - INFO - Prediction made: 2.22 in 0.003s
+2025-08-11 12:21:27,666 - __main__ - INFO - Prediction made: 2.60 in 0.005s
+2025-08-11 12:21:28,038 - __main__ - INFO - Prediction made: 3.17 in 0.004s
+2025-08-11 12:29:27,099 - __main__ - INFO - Prediction made: 2.51 in 0.030s
+2025-08-11 12:29:27,475 - __main__ - INFO - Prediction made: 3.38 in 0.003s
+2025-08-11 12:29:27,869 - __main__ - INFO - Prediction made: 3.68 in 0.021s
+2025-08-11 12:29:28,215 - __main__ - INFO - Prediction made: 4.21 in 0.002s
+2025-08-11 12:29:28,604 - __main__ - INFO - Prediction made: 4.32 in 0.008s
+2025-08-11 12:29:28,970 - __main__ - INFO - Prediction made: 2.04 in 0.003s
+2025-08-11 12:29:29,371 - __main__ - INFO - Prediction made: 2.50 in 0.006s
+2025-08-11 12:29:29,745 - __main__ - INFO - Prediction made: 3.36 in 0.002s
+2025-08-11 12:29:30,125 - __main__ - INFO - Prediction made: 3.66 in 0.013s
+2025-08-11 12:29:30,485 - __main__ - INFO - Prediction made: 4.16 in 0.002s
+2025-08-11 12:50:33,340 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 12:50:33,354 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 12:50:33,850 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 12:56:10,072 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 12:56:10,083 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 12:56:10,379 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 15:36:51,246 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 15:36:51,256 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 15:36:51,631 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 15:41:51,113 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 15:41:51,129 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 15:41:51,572 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 16:05:29,174 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 16:05:29,216 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 16:05:29,561 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 16:07:47,554 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 16:07:47,565 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 16:07:47,837 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 16:08:33,924 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 16:08:33,937 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 16:08:34,242 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 17:15:31,911 - __main__ - INFO - Database initialized at logs/predictions.db
+2025-08-11 17:15:31,934 - __main__ - INFO - Starting California Housing Price Predictor API
+2025-08-11 17:15:32,373 - __main__ - INFO - Model loaded successfully. Version: local_best_model
+2025-08-11 17:15:42,272 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:42,291 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:42,310 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:42,328 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,346 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,364 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,382 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,400 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,420 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:42,438 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,362 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,380 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,398 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,416 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,434 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,452 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,470 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:43,488 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,506 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:43,524 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,129 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,147 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,165 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,182 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,200 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,219 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,238 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,256 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:44,274 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,291 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,871 - __main__ - INFO - Prediction made: 4.31 in 0.004s
+2025-08-11 17:15:44,890 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,907 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,924 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,941 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,959 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,976 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:44,993 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:45,012 - __main__ - INFO - Prediction made: 4.31 in 0.003s
+2025-08-11 17:15:45,040 - __main__ - INFO - Prediction made: 4.31 in 0.003s
